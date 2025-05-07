@@ -1,1 +1,3 @@
-## Hi there 👋 EU SOU BRUNO RAFAEL
+## OLÁ! 👋 EU SOU BRUNO RAFAEL
+
+-  🧑‍💻 Começando a Estudar Programação
